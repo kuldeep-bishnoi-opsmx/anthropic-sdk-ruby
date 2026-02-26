@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.23.1 (2026-02-26)
+
+Full Changelog: [v1.23.0...v1.23.1](https://github.com/anthropics/anthropic-sdk-ruby/compare/v1.23.0...v1.23.1)
+
+### Documentation
+
+* streamline README, centralize documentation at docs.anthropic.com ([396688b](https://github.com/anthropics/anthropic-sdk-ruby/commit/396688b823bf08690714c4f42160b4aa20d86880))
+
 ## 1.23.0 (2026-02-19)
 
 Full Changelog: [v1.22.0...v1.23.0](https://github.com/anthropics/anthropic-sdk-ruby/compare/v1.22.0...v1.23.0)
